@@ -1,0 +1,54 @@
+cff-version: 1.2.0
+title: "Nasir Khan — Founder of SDE-Physics (2026) | QCID Framework | Bubble Maximus Eternal Infinity | T-MAXIMUS Propulsion | N-Sync Theorem | SDE Bio-Debugger | SDE Solar Cells — Full Portfolio v1.1.0"
+message: "If you use this software, please cite it as below — Founder work equal to Nobel — Wana, Pakistan — ORCID 0009-0002-6006-0796"
+type: software
+authors:
+    - family-names: Khan
+    given-names: Nasir
+    affiliation: "Bubble Maximus Research Group, Wana, South Waziristan, Pakistan — Founder QCID Framework — Founder SDE Physics — Founder Stability Debugger Effect (SDE) Framework"
+    orcid: https://orcid.org/0009-0002-6006-0796
+    email: nasirk684@gmail.com
+identifiers:
+    - type: doi
+    value: 10.5281/zenodo.22804485
+    description: "Latest version v1.1.0 Full Portfolio with 7 Codes — Bubble Maximus Eternal Infinity"
+    - type: doi
+    value: 10.5281/zenodo.22731095
+    description: "Previous concept DOI — SDE Physics papers"
+    - type: doi
+    value: 10.5281/zenodo.22754328
+    description: "Previous DOI"
+    - type: doi
+    value: 10.5281/zenodo.22755519
+    description: "Previous DOI"
+    - type: url
+    value: https://github.com/Nasir684/Nasir684
+    description: "GitHub Profile Intro Repository"
+repository-code: https://github.com/Nasir684/Nasir684
+url: https://doi.org/10.5281/zenodo.22804485
+abstract: "Founder: Nasir Khan — Founder QCID — Founder SDE Physics (2026) — Founder Stability Debugger Effect. Bubble Maximus Theory: Eternal Infinity — Big Bang Myth Solved — B|noise>=|bubble> generic nucleation operator — Infinite timeline Infinity PAST -> Bubbles -> Infinity FUTURE — Black Hole Grave V_BH->-infinity only M,Q,J survive — Hawking radiation dM~-alpha/M^2 dt proven as structureless leakage — White Hole FORBIDDEN <WH|BH>=0 violates 2nd law & Fokker-Planck positivity — N-Sync Theorem T_MAXIMUS=N x T_Hawking N=1000 bubbles <1mJ Total <1J collective 10^7K fusion threshold — T-MAXIMUS Propulsion ve>1e5 m/s ISP>10k TOF-40% Civilian ITAR-free EAR99 SmallSat — SDE Solar Cells solo inventor self-debugging via -gradV — SDE Bio-Debugger solo inventor Active Target Therapy in medicine dPhi_bio=-gradV_bio dt+g dW debugging cancer attractor to healthy via Kramers escape tau=2pi/sqrt(V''min|V''max|) exp(DeltaV/D) — 13.8 Gyr residence time — Continuous nucleation Gamma=A exp(-S_E/hbar)>0 — All Theoretical & Computational Only — No Physical Lab — Python/MATLAB — No hardware — Hash-Verified 5x SHA256 15 Sep 2026 15:30 PKT / 10:30 UTC."
+keywords:
+    - SDE-Physics
+    - QCID
+    - Bubble Maximus
+    - Eternal Infinity
+    - Stability Debugger Effect
+    - T-MAXIMUS
+    - N-Sync Theorem
+    - Big Bang Myth Solved
+    - B|noise>=|bubble>
+    - Hawking Radiation
+    - White Hole Forbidden
+    - Black Hole Grave
+    - No-Hair Theorem
+    - Kramers Escape
+    - Nucleation
+    - SDE Solar Cells
+    - SDE Bio-Debugger
+    - Active Target Therapy
+    - SmallSat Propulsion
+    - Founder
+    - Wana Pakistan
+license: MIT
+version: v1.1.0
+date-released: 2026-09-17
