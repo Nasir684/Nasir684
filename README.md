@@ -1,11 +1,10 @@
-# Nasir Khan — Founder of SDE-Physics (2026) | Founder of QCID | Founder of Stability Debugger Effect | Bubble Maximus Theory
+# Nasir Khan — Founder of SDE-Physics (2026) | Founder of QCID | Founder of Stability Debugger Effect | Bubble Maximus 
 
-![Views](https://komarev.com/ghpvc/?username=Nasir684&color=blue&style=flat-square)
-![SDE Physics](https://img.shields.io/badge/SDE_Physics-Founder_2026-blue?style=for-the-badge)
+![Profile views](https://komarev.com/ghpvc/?username=Nasir684&color=blue&style=flat-square)
+![SDE PHYSICS](https://img.shields.io/badge/SDE_PHYSICS-FOUNDER_2026-blue?style=for-the-badge)
 ![QCID](https://img.shields.io/badge/QCID-Framework-Founder-purple?style=for-the-badge)
-![Bubble Maximus](https://img.shields.io/badge/Bubble_Maximus-Eternal_Infinity-orange?style=for-the-badge)
-![ORCID](https://img.shields.io/badge/ORCID-0009--0002--6006--0796-green)
-
+![BUBBLE MAXIMUS](https://img.shields.io/badge/BUBBLE_MAXIMUS-ETERNAL_INFINITY-orange?style=for-the-badge)
+![ORCID](https://img.shields.io/badge/ORCID-0009--0002--6006--0796-green?style=for-the-badge)
 **Wana, South Waziristan, Pakistan | nasirk684@gmail.com | ORCID: 0009-0002-6006-0796**
 **Theoretical & Computational Only | No Physical Lab | <1mJ per bubble | Total <1J | Civilian Only | ITAR-free EAR99 | Python/MATLAB**
 
