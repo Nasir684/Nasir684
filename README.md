@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22804485.svg)](https://doi.org/10.5281/zenodo.22804485)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0002--6006--0796-green?style=for-the-badge)](https://orcid.org/0009-0002-6006-0796)
 # Nasir Khan — Founder of SDE-Physics (2026) | Founder of QCID | Founder of Stability Debugger Effect | Bubble Maximus 
 
 ![Profile views](https://komarev.com/ghpvc/?username=Nasir684&color=blue&style=flat-square)
