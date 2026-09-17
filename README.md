@@ -1,31 +1,30 @@
+# Nasir Khan — Founder of SDE-Physics (2026) | Founder of QCID Framework | Computational Physics
 
-### Hi, I'm Nasir Khan 👋
+![SDE Physics](https://img.shields.io/badge/SDE-Physics-2026-blue?style=for-the-badge)
+![QCID Framework](https://img.shields.io/badge/QCID-Framework-Founder-purple?style=for-the-badge)
+![Bubble Maximus](https://img.shields.io/badge/Bubble-Maximus-Theory-orange?style=for-the-badge)
+![ORCID](https://img.shields.io/badge/ORCID-0009--0002--6006--0796-green?style=flat)
 
-**Founder of SDE-Physics (2026)** — A new computational framework extending classical mechanics with Stochastic Differential Equations.
+**Wana, South Waziristan, Pakistan | nasirk684@gmail.com | ORCID: 0009-0002-6006-0796**
+**Theoretical & Computational Only — No Physical Lab — Civilian Research Only — ITAR-Free**
 
-> DOI: [10.5281/zenodo.22682258](https://doi.org/10.5281/zenodo.22682258)
-> Framework: [Nasir684/SDE-Physics](https://github.com/Nasir684/SDE-Physics)
+> **"Everyone fears Infinity. I use Infinity to control SDE." — Nasir Khan, 2026**
 
-#### 🔬 What I'm building
-- SDE-Physics: Particle dynamics with real-world noise & randomness
-- QCID-SDE Research Series (I-VII)
-- Open-source tools for computational physics
+---
 
-#### 🛠️ Tech Stack
-`Python` `SDE` `Physics Simulation` `NumPy` `Stochastic Modeling`
+## 🌌 WHO AM I?
 
-#### 📫 How to cite my work
-<!--
-**Nasir684/Nasir684** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am **Nasir Khan**, Independent Researcher, **Founder of SDE Physics (2026)**, **Founder of QCID Framework**, **Founder of Stability Debugger Effect (SDE) Framework**.
 
-Here are some ideas to get you started:
+I coined **SDE = Stability Debugger Effect** in 2026 under QCID Framework. This redefines Stochastic Differential Equations not as math tool, but as physical principle: **Reality is fundamentally infinite instability that self-debugs toward stability. Laws of physics are emergent debugged states.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Location:** Wana, South Waziristan, Pakistan — Theoretical & Computational Only — Python/MATLAB
+
+**Verification:** Hash-Verified 5x SHA256 — 15 Sep 2026 15:30 PKT / 10:30 UTC — Zenodo DOIs: 10.5281/zenodo.22731095, 22754328, 22755519 — Preprints ID 233321 — WhatsApp Witness
+
+---
+
+## 💡 CORE EQUATION — SDE Physics
+
+```math
+dΦ = -∇V(Φ) dt + g(Φ) dW_t
