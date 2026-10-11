@@ -1,32 +1,44 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22992340.svg)](https://doi.org/10.5281/zenodo.22992340)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0002--6006--0796-green?style=for-the-badge)](https://orcid.org/0009-0002-6006-0796)
-# Nasir Khan — Founder of SDE-Physics (2026) | Founder of QCID | Founder of Stability Debugger Effect | Bubble Maximus 
+
+# Nasir Khan — Founder of SDE-Physics (2026) | Founder of QCID | Founder of Stability Debugger Effect
 
 ![Profile views](https://komarev.com/ghpvc/?username=Nasir684&color=blue&style=flat-square)
-![SDE Physics](https://img.shields.io/badge/SDE_PHYSICS-FOUNDER_2026-blue?style=for-the-badge)
-![QCID](https://img.shields.io/badge/QCID-Framework-purple?style=for-the-badge)
-![Bubble Maximus](https://img.shields.io/badge/BUBBLE_MAXIMUS-ETERNAL_INFINITY-orange?style=for-the-badge)
-![GTI](https://img.shields.io/badge/GTI--1.0-FINAL_22992340-red?style=for-the-badge)
-[![ORCID](https://img.shields.io/badge/ORCID-0009--0002--6006--0796-green?style=for-the-badge)](https://orcid.org/0009-0002-6006-0796)
+![SDE Physics](https://img.shields.io/badge/SDE_PHYSICS-ENGINEERING_CONTROL_2026-blue?style=for-the-badge)
+![QCID](https://img.shields.io/badge/QCID-v1.4_Quantum_Constraint_Induced_Decoherence-purple?style=for-the-badge)
+![GTI](https://img.shields.io/badge/GTI-v2.1_NULL_RECURRENT-red?style=for-the-badge)
 
 **Wana, South Waziristan, Pakistan | nasirk684@gmail.com | ORCID: 0009-0002-6006-0796**
-**Theoretical & Computational Only | No Physical Lab | <1mJ per bubble | Total <1J | Civilian Only | ITAR-free EAR99 | Python/MATLAB**
+**Theoretical & Computational Only | <1mJ/bubble | Total <1J | Civilian | ITAR-free EAR99 | Python/MATLAB**
 
 > "Everyone fears Infinity. I use Infinity to control SDE." — Nasir Khan, 2026
 
-### Hash-Verified: 5x SHA256 — 15 Sep 2026 15:30 PKT / 10:30 UTC | Zenodo DOIs: 10.5281/zenodo.22731095, 22754328, 22755519, **GTI-1.0 FINAL 22992340** | Preprints ID 233321
+### What Founder Means (Corrected 12 Oct 2026)
 
-**CORRECTION 29 Sep 2026:** All datasets labelled as SDE simulations v4.2 seed 684, theoretical facility Wana Lab. No wet lab / no 10-tank. Earlier experimental wording was error, now corrected. Math unchanged.
+**Founder of SDE-Physics (2026) =**
+Engineering control framework, NOT physical field.
+- Master SDE: `dΦ = -∇V dt + g dW` 
+- Adaptive law: `k(d)=k₀/d` — Debugger drives to stability
+- Hardware: ESP32 mesh, analogue computer model, Form A N=1000 solver
+- Purpose: Temporary management of noisy systems (<1J). Does NOT create new field.
+
+**Founder of QCID v1.4 =**
+**Quantum Constraint Induced Decoherence** — 8-Paper Octology FINAL
+Concept DOI: 10.5281/zenodo.22896411 | 4D 1/r³ instability → 3D+1T necessity | Ψtotal=ΨA+ΨB
+
+**Founder of Stability Debugger Effect =**
+The `k(d)` algorithm that suppresses variance in SDE simulations. Computational effect.
+
+**Bubble Maximus =** Thought-experiment label for 1000-bubble SDE ensemble. No physical claim.
 
 ---
+**ACTIVE:**
+- GTI-v2.1-eternal-instability — Fundamental: Null-recurrence, infinite MFPT proof
+- qcid-sigma-paper — QCID v1.4 dataset 50k samples DOI 10.5281/zenodo.22581218
 
-## 🌌 Core Equations
+**WITHDRAWN / SUPERSEDED (Archived):**
+- GTI-General-Theory-of-Instability / GTI-1.0 22992340 (V=11 unbounded + M_stab field) — Replaced by GTI v2.1
 
-```math
-dΦ = -∇V(Φ) dt + g(Φ) dW_t  —  Master SDE — Debugger drives to stability
-B|noise> = |bubble>  —  Big Bang Operator — Birth of each bubble, not beginning of existence
-T_MAXIMUS = N x T_Hawking  —  Theorem V.4/1.4 — N=1000 x micro-Hawking = 10^7K fusion via N-Sync
-τ_bubble = 2π / sqrt(V''(min)|V''(max)|) * exp(ΔV/D)  —  13.8 Gyr = residence time, not age
-Γ = A exp(-S_E/ħ) >0  —  Eternally nucleating multiverse
-dM ~ -α/M² dt  —  Hawking leakage — structureless return to infinity
-<WH|BH> = 0  —  White Hole FORBIDDEN — Proven
+**CORRECTION 29 Sep 2026:** All prior experimental wording = SDE simulations v4.2 seed 684, Wana Lab theoretical facility. Math unchanged, interpretation corrected.
+
+License: CC BY 4.0 | Hash: 5x SHA256 15 Sep 2026 15:30 PKT
