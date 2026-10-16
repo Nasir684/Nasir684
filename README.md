@@ -1,14 +1,16 @@
 [![DOI GTI v2.1 Active](https://zenodo.org/badge/DOI/10.5281/zenodo.23305931.svg)](https://doi.org/10.5281/zenodo.23305931)
 [![DOI QCID v1.4 Final](https://zenodo.org/badge/DOI/10.5281/zenodo.22896411.svg)](https://doi.org/10.5281/zenodo.22896411)
+[![DOI Muon Protocol v1.1](https://zenodo.org/badge/DOI/10.5281/zenodo.23405991.svg)](https://doi.org/10.5281/zenodo.23405991)
 [![DOI Withdrawn](https://zenodo.org/badge/DOI/10.5281/zenodo.22992340.svg)](https://doi.org/10.5281/zenodo.22992340)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0002--6006--0796-green?style=for-the-badge)](https://orcid.org/0009-0002-6006-0796)
 
-# Nasir Khan — Founder of SDE-Physics (2026) | Founder of QCID | Founder of Stability Debugger Effect
+# Nasir Khan — Founder of SDE-Physics (2026) | Founder of QCID | Founder of Stability Debugger Effect | Founder of Poisson-Certified Muon Counting Protocol (2026)
 
 ![Profile views](https://komarev.com/ghpvc/?username=Nasir684&color=blue&style=flat-square)
 ![SDE Physics](https://img.shields.io/badge/SDE_PHYSICS-ENGINEERING_CONTROL_2026-blue?style=for-the-badge)
 ![QCID](https://img.shields.io/badge/QCID-v1.4_Quantum_Constraint_Induced_Decoherence-purple?style=for-the-badge)
 ![GTI](https://img.shields.io/badge/GTI-v2.1_NULL_RECURRENT-red?style=for-the-badge)
+![MUON](https://img.shields.io/badge/MUON_PROTOCOL-v1.1_CERTIFIED_POISSON_COUNTING-orange?style=for-the-badge)
 
 **Wana, South Waziristan, Pakistan | nasirk684@gmail.com | ORCID: 0009-0002-6006-0796**
 **Theoretical & Computational Only | <1mJ/bubble | Total <1J | Civilian | ITAR-free EAR99 | Python/MATLAB**
@@ -31,6 +33,13 @@ Concept DOI: 10.5281/zenodo.22896411 | 4D 1/r³ instability → 3D+1T necessity 
 **Founder of Stability Debugger Effect =**
 The `k(d)` algorithm that suppresses variance in SDE simulations. Computational effect.
 
+**Founder of Poisson-Certified Muon Counting Protocol (2026) =**
+Pre-registered statistical certification framework for particle counting:
+locked protocol + Fano/bootstrap-KS certification + blind unblinding gate.
+Validated Monte-Carlo pipeline. First application: positive-muon lifetime.
+Locked pre-data — DOI 10.5281/zenodo.23405991. Measurement pending lab
+collaboration (proposals sent Oct 2026).
+
 **Bubble Maximus =** Thought-experiment label for 1000-bubble SDE ensemble. No physical claim.
 
 ---
@@ -39,10 +48,13 @@ The `k(d)` algorithm that suppresses variance in SDE simulations. Computational 
 - **QCID v1.4 FINAL** — Quantum Constraint Induced Decoherence Octology — DOI 10.5281/zenodo.22896411 — https://github.com/Nasir684/qcid-sigma-paper
 - **SDE-Physics-Bubble-Maximus** — Control Module Active as Analogue — DOI 10.5281/zenodo.22682258 — https://github.com/Nasir684/SDE-Physics-Bubble-Maximus
 - **qcid-sigma-paper** — QCID-II Dataset 50k samples — DOI 10.5281/zenodo.22581218
+- **muon-lifetime-paper** — Pre-registration protocol v1.1 (locked pre-data) + validated MC pipeline (unbinned ML, profile likelihood, Fano + bootstrap-KS, unblinding gate) — DOI 10.5281/zenodo.23405991 — https://github.com/Nasir684/muon-lifetime-paper
 
 **WITHDRAWN / SUPERSEDED (Archived):**
 - **GTI-General-Theory-of-Instability / GTI-1.0** — DOI 10.5281/zenodo.22992340 — V=11 unbounded + M_stab field withdrawn — Replaced by GTI v2.1 DOI 10.5281/zenodo.23305931 — ARCHIVED
 
 **CORRECTION 29 Sep 2026:** All prior experimental wording = SDE simulations v4.2 seed 684, Wana Lab theoretical facility. Math unchanged, interpretation corrected. LIGO 10/10, fusion T_MAXIMUS, universal M_stab field claims WITHDRAWN.
+
+**ADDED 16 Oct 2026:** Poisson-Certified Muon Counting Protocol — pre-registered, locked before data; no measurement claimed yet; collaboration proposals sent to UW–River Falls (IceCube member institution) and MIT.
 
 License: CC BY 4.0 | Hash: 5x SHA256 15 Sep 2026 15:30 PKT
