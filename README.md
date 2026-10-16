@@ -1,3 +1,13 @@
+> **ARCHIVAL CORRECTION — 29 Sep 2026**
+> DOI 10.5281/zenodo.23305931 — ARCHIVED
+> All prior experimental wording in v4.2 and earlier = **SDE simulations v4.2 seed 684, Wana Lab theoretical facility.**
+> Math (Lindblad, distance ruler, Δ formalism) unchanged, interpretation corrected.
+> LIGO 10/10, fusion T_MAXIMUS, universal M_stab field claims **WITHDRAWN**.
+>
+> **ADDED 16 Oct 2026:** Poisson-Certified Muon Counting Protocol — pre-registered, locked before data; no measurement claimed yet; collaboration proposals sent to UW–River Falls (IceCube member institution) and MIT.
+>
+> License: CC BY 4.0 | Hash: 5x SHA256 15 Sep 2026 15:30 PKT
+> New valid DOI for DESI DR2 work: 10.5281/zenodo.23425496
 [![DOI GTI v2.1 Active](https://zenodo.org/badge/DOI/10.5281/zenodo.23305931.svg)](https://doi.org/10.5281/zenodo.23305931)
 [![DOI QCID v1.4 Final](https://zenodo.org/badge/DOI/10.5281/zenodo.22896411.svg)](https://doi.org/10.5281/zenodo.22896411)
 [![DOI Muon Protocol v1.1](https://zenodo.org/badge/DOI/10.5281/zenodo.23405991.svg)](https://doi.org/10.5281/zenodo.23405991)
